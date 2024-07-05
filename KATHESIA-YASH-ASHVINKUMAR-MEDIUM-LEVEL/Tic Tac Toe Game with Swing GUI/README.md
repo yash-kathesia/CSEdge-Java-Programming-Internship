@@ -36,8 +36,6 @@ To run this project, ensure you have Java Development Kit (JDK) installed on you
 2. Navigate to the `Tic Tac Toe Game with Swing GUI\dist\` directory.
 3. Execute the jar file: `java -jar TicTacToe.jar`.
 
-
-
 ## Usage
 1. Launch the game using the instructions above.
 2. The game window will display a 3x3 grid.
@@ -47,7 +45,7 @@ To run this project, ensure you have Java Development Kit (JDK) installed on you
 6. Players can start a new game by clicking the "New Game" button.
 
 ## Video Explanation
-
+[Watch the explanation video](https://github.com/yash-kathesia/CSEdge-Java-Programming-Internship/blob/main/KATHESIA-YASH-ASHVINKUMAR-MEDIUM-LEVEL/Tic%20Tac%20Toe%20Game%20with%20Swing%20GUI/Tic%20Tac%20Toe%20Explanation%20Video.mp4)
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
@@ -61,5 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact Yash Kathesia at [yashkathesia@gmail.com](mailto:yashkathesia@gmail.com).
-
-```
